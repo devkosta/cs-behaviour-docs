@@ -4,4 +4,4 @@ To What Degree Is Agent Behaviour Predictive of Their Competency in a Task? (Doc
 
 ## License
 
-MIT © [DevKosta](https://github.com/DevKosta)
+MIT © [DevKosta](https://github.com/devkosta)
