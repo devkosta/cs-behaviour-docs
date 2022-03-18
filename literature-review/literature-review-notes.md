@@ -88,7 +88,7 @@ https://davidbdurst.com/blog/csknow_demo.html
 https://davidbdurst.com/blog/csknow_real_player.html
 - This article explains how to evaluate a players gameplay using the model described in Durst's first article.
 - Durst proposes a method to evaluate players by considering both players' perception and the actions they take as a result of those perceptions (described in the pipeline below).
-	- *https://imgur.com/a/pY4taBs*
+	- https://imgur.com/a/pY4taBs
 	- The first step is game sense, where players perceive the game by seeing images rendered to their monitor and sounds played in their headphones.
 	- Then they make decisions based on their game sense.
 	- Finally, the players take action based on those decisions. Their actions are their in-game behaviors.
